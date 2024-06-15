@@ -9,3 +9,4 @@ Movie Titles # Assumed content
 # Titles
 >>>>>>> Stashed changes
 H: Added some content for commit H
+I: Added another line for commit I
